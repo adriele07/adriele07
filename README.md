@@ -1,8 +1,6 @@
 ### Bem vindo ao meu perfil ,meu nome é Adriele 👋
 ### Linguagens de Programação
 
-ainda aprendendo mais sobre C e C++
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/adriele07)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriele07&layout=compact)](https://github.com/adriele07)
 
 ### Bancos de Dados
