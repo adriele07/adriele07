@@ -11,9 +11,6 @@
 ### Bancos de Dados
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/adriele07)
-
-### Ferramentas
-
 ### Ferramentas
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/)
